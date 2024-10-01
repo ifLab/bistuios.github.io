@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>//localhost:5794/</loc>
     <lastmod>2024-09-29T18:10:58+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/introduce-bistuios/</loc>
+    <loc>//localhost:5794/tags/introduce-bistuios/</loc>
     <lastmod>2024-09-29T18:10:58+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>//localhost:5794/posts/</loc>
     <lastmod>2024-09-29T18:10:58+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>//localhost:5794/tags/</loc>
     <lastmod>2024-09-29T18:10:58+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/introduce/</loc>
+    <loc>//localhost:5794/posts/introduce/</loc>
     <lastmod>2024-09-29T18:10:58+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>//localhost:5794/blog/</loc>
   </url><url>
-    <loc>http://localhost:1313/series/</loc>
+    <loc>//localhost:5794/series/</loc>
   </url>
 </urlset>
