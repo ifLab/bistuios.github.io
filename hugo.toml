@@ -25,7 +25,7 @@ paginate = 10  # 每页显示的文章数量
   images = [""]  # 用于社交媒体分享的图像 URL 列表
 
   # 背景图片
-  backgroundImage = "/static/images/background.jpg"  # 指定背景图片的路径
+  backgroundImage = "/images/background.jpg"  # 指定背景图片的路径
 
 [taxonomies]  # 分类法
   category = "blog"  # 分类分类法
