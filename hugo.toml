@@ -35,7 +35,7 @@ paginate = 10  # 每页显示的文章数量
 [languages]  # 多语言设置
   [languages.en]  # 英文站点
     title = "BistuiOS Club"  # 英文站点标题
-    subtitle = "BistuiOS Club"  # 英文站点副标题
+    subtitle = "A simple theme for Hugo"  # 英文站点副标题
     keywords = ""  # 英文站点关键词
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'  # 版权声明
     readOtherPosts = "Read other posts"  # 阅读其他文章
