@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "C:/Users/t1nam/Desktop/bistuios",
+	"sourceRoot": "C:/Users/t1nam/Desktop/bistuios.github.io",
 	"sources": [
 		"themes/hello-4s3ti/assets/scss/main.scss",
 		"themes/hello-4s3ti/assets/scss/_normalize.scss",
