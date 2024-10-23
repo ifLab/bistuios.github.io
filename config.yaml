@@ -1,115 +1,119 @@
+# 网站的基本URL
 baseURL: 'https://iflab.github.io/bistuios.github.io/'
+
+# 语言代码
 languageCode: 'zh-CN'
+
+# 使用的主题
 theme: "hello-friend-4s3ti"
+
+# 网站标题
 title: 'Bistu iOS Club'
+
+# 版权声明
 copyright: "All Rights Reserved"
+
+# 是否启用多语言支持
 IsMultiLingual: true
 
-
-
-
-
-
-
+# 主题参数
 params:
+  # 版本号
   version: "dev"
+  
+  # 作者信息
   author: 
     name: "BistuiOS Club"
+  
+  # 默认主题（例如：dark, light）
   defaultTheme: "dark"
+  
+  # 是否启用主题切换
   EnableThemeToggle: true 
-# gitUrl: "https://github.com/4s3ti"
+  
+  # Git仓库URL
+  gitUrl: "https://iflab.github.io/bistuios.github.io/"
+  
+  # 是否启用分享按钮
   EnableSharingButtons: true
+  
+  # 是否启用全局语言菜单
   EnableGlobalLanguageMenu: true
+  
+  # 背景图片路径
   backgroundImage: "static/coolapso.png"
+  
+  # 是否启用背景效果
   backgroundEffects: true
+  
+  # 是否显示文章列表
   showPosts: true
+  
+  # 是否显示标签
   tags: true
-# hideReadMore: true
+  
+  # 阅读更多文本
   ReadMoreText: true
-# ReadMore: "foo"
-# socialIcons: true
-# homeTitle: "Title"
-# homeSubtitle: "Subtitle"
+  
+  # FontAwesome 图标库设置
   fontAwesome: 
     all: true
+    # 可以单独启用或禁用不同的图标类型
     # brands: true
     # solid: true
     # regular: true
     # kitURL: "https://kit.fontawesome.com/yourkitid.js"
+  
+  # 是否显示阅读时间
   ShowReadingTime: true
+  
+  # 是否显示最后修改时间
   LastModDisplay: true
+  
+  # 标签设置
   tags: true
+  
+  # Logo 设置
   logo:
-    logoText: "coolapso.sh"
+    logoText: "BistuiOS Club"
     logoCursorColor: "#ffffff"
-  social:
-    - name: "github"
-      url: "https://github.com/coolapso"
-    - name: "website"
-      url: "https://coolapso.sh"
-      icon: fa-solid fa-terminal
-    - name: "youtube"
-      url: "https://youtube.com/@ccoolapso"
-    - name: "x-twitter"
-      url: "https://x.com/ccoolapso"
-    - name: "instagram"
-      url: "https://www.instagram.com/c4colaco/"
-    - name: "twitch"
-      url: "https://twitch.tv/cool4pso"
-    - name: "Buy me a coffee"
-      url: "https://www.buymeacoffee.com/coolapso"
-      icon: fa-solid fa-coffee
+ 
+  
+  # 页脚设置
   footer:
-    showVersion: true
-    socialIcons: true
-    author: true
-    rss: true
-    trademark: true
+    
+    
+    # 是否显示版权声明
     copyright: true
-#   topText:  ["Footer Top text"]
+    
+    # 页脚顶部文本
+    # topText:  ["Footer Top text"]
+    
+    # 页脚底部文本
     bottomText: [
       "Powered by <a href=\"http://gohugo.io\">Hugo</a>", 
       "with <a href=\"https://github.com/coolapso/hugo-theme-hello-4s3ti\">Hello-friend-4s3ti</a>",
     ]
-    
 
-
+# 分类法设置
 taxonomies:
   tag: "tags"
   category: "blog"
 
+# 菜单设置
 menu:
   main:
     - identifier: "about"
-      name: "Sobre"
+      name: "荣誉"
       url: "#"
       weight: 2
 
     - identifier: "posts"
-      name: "Posts"
+      name: "关于我们"
       url: "/posts"
       weight: 1
 
     - identifier: "tools"
-      name: "Ferramentas"
+      name: "成员"
 
-    - identifier: "projects"
-      name: "Projetos"
-      url: "/projects"
-
-    - identifier: "Projeto 1"
-      name: "Projeto 1"
-      url: "#"
-      parent: "projects"
-    - identifier: "ferramenta 1"
-      name: "Ferramenta 1"
-      url: "#"
-      parent: "tools"
-    - identifier: "Ferramenta 2"
-      name: "Ferramenta 2"
-      parent: "tools"
-      url: "#"
-    - identifier: "Ferramenta 3"
-      name: "Ferramenta 3"
-      parent: "tools"
-      url: "#"
+    -
