@@ -75,44 +75,15 @@ params:
   
   # Logo 设置
   logo:
-    logoText: "coolapso.sh"
+    logoText: "BistuiOS.Club
     logoCursorColor: "#ffffff"
-  
-  # 社交媒体链接
-  social:
-    - name: "github"
-      url: "https://github.com/coolapso"
-    - name: "website"
-      url: "https://coolapso.sh"
-      icon: fa-solid fa-terminal
-    - name: "youtube"
-      url: "https://youtube.com/@ccoolapso"
-    - name: "x-twitter"
-      url: "https://x.com/ccoolapso"
-    - name: "instagram"
-      url: "https://www.instagram.com/c4colaco/"
-    - name: "twitch"
-      url: "https://twitch.tv/cool4pso"
-    - name: "Buy me a coffee"
-      url: "https://www.buymeacoffee.com/coolapso"
-      icon: fa-solid fa-coffee
+
   
   # 页脚设置
   footer:
-    # 是否显示版本号
-    showVersion: true
+   
     
-    # 是否显示社交媒体图标
-    socialIcons: true
-    
-    # 是否显示作者信息
-    author: true
-    
-    # 是否显示RSS订阅链接
-    rss: true
-    
-    # 是否显示商标
-    trademark: true
+
     
     # 是否显示版权声明
     copyright: true
