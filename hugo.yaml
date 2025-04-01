@@ -20,7 +20,13 @@ languages:
         params:
             sidebar:
                 subtitle: Bistu iOSClub
-  
+    zh-cn:
+        languageName: 中文
+        title: 北京信息科技大学iOS社团
+        weight: 2
+        params:
+            sidebar:
+                subtitle: 北京信息科技大学iOS社团
 
 services:
     # Change it to your Disqus shortname before using
