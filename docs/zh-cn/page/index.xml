@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on 北京信息科技大学iOS社团</title>
-        <link>http://localhost:5737/bistuios.github.io/zh-cn/page/</link>
+        <link>http://localhost:1313/bistuios.github.io/zh-cn/page/</link>
         <description>Recent content in Pages on 北京信息科技大学iOS社团</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <copyright>Example Person</copyright><atom:link href="http://localhost:5737/bistuios.github.io/zh-cn/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <copyright>Example Person</copyright><atom:link href="http://localhost:1313/bistuios.github.io/zh-cn/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>我们的活动</title>
-        <link>http://localhost:5737/bistuios.github.io/zh-cn/%E6%88%91%E4%BB%AC%E7%9A%84%E6%B4%BB%E5%8A%A8/</link>
+        <link>http://localhost:1313/bistuios.github.io/zh-cn/%E6%88%91%E4%BB%AC%E7%9A%84%E6%B4%BB%E5%8A%A8/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:5737/bistuios.github.io/zh-cn/%E6%88%91%E4%BB%AC%E7%9A%84%E6%B4%BB%E5%8A%A8/</guid>
-        <description>&lt;img src="http://localhost:5737/bistuios.github.io/about-us/1activity.jpg" alt="Featured image of post 我们的活动" /&gt;&lt;p&gt;2024-12-07，PJ学长在iOS Club在文理楼205举办《如何用24小时开发一款小工具》案例分享，介绍从需求分析到功能实现的快速开发流程，有Mac设备的同学可实操开发环境并试运行Demo，无设备的同学也欢迎参与，重点了解开发思路和流程。
+        <guid>http://localhost:1313/bistuios.github.io/zh-cn/%E6%88%91%E4%BB%AC%E7%9A%84%E6%B4%BB%E5%8A%A8/</guid>
+        <description>&lt;img src="http://localhost:1313/bistuios.github.io/about-us/1activity.jpg" alt="Featured image of post 我们的活动" /&gt;&lt;p&gt;2024-12-07，PJ学长在iOS Club在文理楼205举办《如何用24小时开发一款小工具》案例分享，介绍从需求分析到功能实现的快速开发流程，有Mac设备的同学可实操开发环境并试运行Demo，无设备的同学也欢迎参与，重点了解开发思路和流程。
 活动回放：https://meeting.tencent.com/crm/2GGab4MBa2。&lt;/p&gt;
 </description>
         </item>

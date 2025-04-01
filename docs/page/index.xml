@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on Bistu iOSClub</title>
-        <link>http://localhost:5737/bistuios.github.io/page/</link>
+        <link>http://localhost:1313/bistuios.github.io/page/</link>
         <description>Recent content in Pages on Bistu iOSClub</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <copyright>Example Person</copyright><atom:link href="http://localhost:5737/bistuios.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <copyright>Example Person</copyright><atom:link href="http://localhost:1313/bistuios.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>About us</title>
-        <link>http://localhost:5737/bistuios.github.io/about-us/</link>
+        <link>http://localhost:1313/bistuios.github.io/about-us/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:5737/bistuios.github.io/about-us/</guid>
-        <description>&lt;img src="http://localhost:5737/img/pageuse.jpg" alt="Featured image of post About us" /&gt;&lt;p&gt;Welcome to iOS Club! iOS Club (Beijing Information Science &amp;amp; Technology University Apple Club) is a cross-disciplinary and extracurricular community for Apple enthusiasts, dedicated to cultivating outstanding Apple product developers and designers. iOS Club consists of three major teams: ​Development, ​Design, and ​Operations, focusing respectively on iOS app development, UI design, social media management, and event organization. At the same time, we rely on competitions such as the ​China College Computer Competition - Mobile Application Innovation Contest and ​Apple WWDC Student Challenge to engage in learning exchanges and practical activities aimed at competition and entrepreneurship, broadening our members&amp;rsquo; horizons and enhancing their comprehensive abilities.&lt;/p&gt;
+        <guid>http://localhost:1313/bistuios.github.io/about-us/</guid>
+        <description>&lt;img src="http://localhost:1313/img/pageuse.jpg" alt="Featured image of post About us" /&gt;&lt;p&gt;Welcome to iOS Club! iOS Club (Beijing Information Science &amp;amp; Technology University Apple Club) is a cross-disciplinary and extracurricular community for Apple enthusiasts, dedicated to cultivating outstanding Apple product developers and designers. iOS Club consists of three major teams: ​Development, ​Design, and ​Operations, focusing respectively on iOS app development, UI design, social media management, and event organization. At the same time, we rely on competitions such as the ​China College Computer Competition - Mobile Application Innovation Contest and ​Apple WWDC Student Challenge to engage in learning exchanges and practical activities aimed at competition and entrepreneurship, broadening our members&amp;rsquo; horizons and enhancing their comprehensive abilities.&lt;/p&gt;
 &lt;p&gt;The club organizes learning in software development, industrial design, and product operations for Apple products such as ​iOS, ​macOS, ​watchOS, and ​tvOS. We apply the knowledge we’ve learned outside of the classroom, helping members expand their horizons and improve their skills while fostering friendships through collaboration.&lt;/p&gt;
 &lt;p&gt;The club primarily conducts the following activities:&lt;/p&gt;
 &lt;p&gt;Regular training sessions in development, design, and operations.
@@ -24,19 +24,19 @@ Let me know if you need further adjustments! 😊&lt;/p&gt;
         </item>
         <item>
         <title>Archives</title>
-        <link>http://localhost:5737/bistuios.github.io/archives/</link>
+        <link>http://localhost:1313/bistuios.github.io/archives/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:5737/bistuios.github.io/archives/</guid>
-        <description>&lt;img src="http://localhost:5737/img/pageuse.jpg" alt="Featured image of post Archives" /&gt;&lt;p&gt;In 2024, we achieved the second and third prize awards in the North China division of the Mobile Application Innovation Competition&lt;/p&gt;
+        <guid>http://localhost:1313/bistuios.github.io/archives/</guid>
+        <description>&lt;img src="http://localhost:1313/img/pageuse.jpg" alt="Featured image of post Archives" /&gt;&lt;p&gt;In 2024, we achieved the second and third prize awards in the North China division of the Mobile Application Innovation Competition&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>Links</title>
-        <link>http://localhost:5737/bistuios.github.io/links/</link>
+        <link>http://localhost:1313/bistuios.github.io/links/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:5737/bistuios.github.io/links/</guid>
+        <guid>http://localhost:1313/bistuios.github.io/links/</guid>
         <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
 &lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -68,10 +68,10 @@ Let me know if you need further adjustments! 😊&lt;/p&gt;
         </item>
         <item>
         <title>Search</title>
-        <link>http://localhost:5737/bistuios.github.io/search/</link>
+        <link>http://localhost:1313/bistuios.github.io/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:5737/bistuios.github.io/search/</guid>
+        <guid>http://localhost:1313/bistuios.github.io/search/</guid>
         <description></description>
         </item>
         
